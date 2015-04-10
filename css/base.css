@@ -13,8 +13,14 @@ img.mini {
 }
 
 #sidebar {
-    background-color: limegreen;
+    background-color: lightyellow;
 }
 #footer {
     background-color: lightgray;
+}
+
+.btn-primary {
+    background-image: linear-gradient(to bottom, #ff7ab7 0px, #005a88 100%);
+    background-repeat: repeat-x;
+    border-color: #245580;
 }

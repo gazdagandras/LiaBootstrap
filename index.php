@@ -67,6 +67,34 @@
                 </div>
                 <div class="col-md-4 col-sm-5 col-xs-12" id="sidebar">
                     Oldalsáv  
+                    
+                    <table class="table table-striped">
+                        <tr>
+                            <th>Név:</th>
+                            <th>Telefon:</th>
+                        </tr>
+                        <tr>
+                            <td>Géza</td>
+                            <td>70/1111-111</td>
+                        </tr>
+                        <tr>
+                            <td>Géza</td>
+                            <td>70/1111-111</td>
+                        </tr>
+                        <tr>
+                            <td>Géza</td>
+                            <td>70/1111-111</td>
+                        </tr>
+                        <tr>
+                            <td>Géza</td>
+                            <td>70/1111-111</td>
+                        </tr>
+                        <tr>
+                            <td>Géza</td>
+                            <td>70/1111-111</td>
+                        </tr>
+                    </table>
+                    
                 </div>
             </div>
 
