@@ -47,7 +47,7 @@
                             <img src="images/Minion_dave.jpg" class="mini">
                         </div>
                         <div class="col-sm-4">
-                            <img src="images/Minion_dave.jpg" class="mini">
+                            <img src="images/Minion_dave.jpg" class="mini img-circle">
                         </div>
                         <div class="col-sm-4">
                             <img src="images/Minion_dave.jpg" class="mini">
@@ -94,6 +94,8 @@
                             <td>70/1111-111</td>
                         </tr>
                     </table>
+                    
+                    <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
                     
                 </div>
             </div>
