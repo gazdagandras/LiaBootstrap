@@ -59,6 +59,10 @@
                             <img src="images/Minion_dave.jpg" class="mini">
                         </div>
                     </div>
+                    
+                    <br>
+                    <p>
+                    <a class="btn btn-primary btn-xs" href="http://google.com">Google</a>
 
                 </div>
                 <div class="col-md-4 col-sm-5 col-xs-12" id="sidebar">
