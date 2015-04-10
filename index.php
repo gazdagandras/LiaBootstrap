@@ -34,6 +34,20 @@
                 </div>
             </div>
 
+            <div class="row">
+                <div class="col-md-8" id="content">
+                    Tartalom  
+                </div>
+                <div class="col-md-4" id="sidebar">
+                    Oldalsáv  
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12" id="footer">
+                    Lábléc    
+                </div>
+            </div>
 
         </div>
     </body>
