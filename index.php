@@ -32,7 +32,21 @@
 
             <div class="row">
                 <div class="col-md-12" id="navigation">
-                    Navigáció    
+                    <ul class="nav nav-pills nav-justified">
+                        <li role="presentation" class="active"><a href="#">Home</a></li>
+                        <li role="presentation"><a href="#">Profile</a></li>
+                        <li role="presentation"><a href="#">Messages</a></li>
+                        <li role="presentation"><a href="#">Profile</a></li>
+                        <li role="presentation" class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                Dropdown <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li role="presentation"><a href="#">Messages</a></li>
+                                <li role="presentation"><a href="#">Profile</a></li>
+                            </ul>
+                        </li>
+                    </ul>   
                 </div>
             </div>
 
@@ -59,15 +73,15 @@
                             <img src="images/Minion_dave.jpg" class="mini">
                         </div>
                     </div>
-                    
+
                     <br>
                     <p>
-                    <a class="btn btn-primary btn-xs" href="http://google.com">Google</a>
+                        <a class="btn btn-primary btn-xs" href="http://google.com">Google</a>
 
                 </div>
                 <div class="col-md-4 col-sm-5 col-xs-12" id="sidebar">
                     Oldalsáv  
-                    
+
                     <table class="table table-striped">
                         <tr>
                             <th>Név:</th>
@@ -94,9 +108,9 @@
                             <td>70/1111-111</td>
                         </tr>
                     </table>
-                    
+
                     <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
-                    
+
                 </div>
             </div>
 
